@@ -48,9 +48,18 @@
     <Compile Include="MultyParameters\MultyParametersThread.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SyncThread\SyncThreadBest.cs" />
-    <Compile Include="SyncThread\SyncThreadBad.cs" />
+    <Compile Include="SyncThread\Mutex\DecThread.cs" />
+    <Compile Include="SyncThread\Mutex\IncThread.cs" />
+    <Compile Include="SyncThread\Mutex\SharedRes.cs" />
+    <Compile Include="SyncThread\Lock\SyncThreadBest.cs" />
+    <Compile Include="SyncThread\Lock\SyncThreadBad.cs" />
+    <Compile Include="SyncThread\Monitor\SyncThreadMonitor.cs" />
+    <Compile Include="SyncThread\Monitor\TickTock.cs" />
+    <Compile Include="SyncThread\Monitor\TickTockThread.cs" />
+    <Compile Include="SyncThread\Semaphore\Reader.cs" />
+    <Compile Include="SyncThread\Semaphore\SemaphoreSync.cs" />
     <Compile Include="ThreadInfo.cs" />
+    <Compile Include="SyncThread\ThreadJoin.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
