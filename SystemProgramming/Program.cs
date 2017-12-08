@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using SystemProgramming.SyncThread;
+using SystemProgramming.SyncThread.Lock;
 using SystemProgramming.SyncThread.Mutex;
 using SystemProgramming.SyncThread.Semaphore;
 
@@ -67,21 +68,31 @@ namespace SystemProgramming
 
 
 
-            IncThread mt1 = new IncThread("Inc thread", 5);
+            //IncThread mt1 = new IncThread("Inc thread", 5);
 
             // разрешить инкременирующему потоку начаться
-            Thread.Sleep(1);
+            //Thread.Sleep(1);
 
-            DecThread mt2 = new DecThread("Dec thread", 5);
+            //DecThread mt2 = new DecThread("Dec thread", 5);
 
-            mt1.Thrd.Join();
-            mt2.Thrd.Join();
+            //mt1.Thrd.Join();
+            //mt2.Thrd.Join();
 
+            //Console.ReadLine();
+            //Console.Clear();
+
+            //SemaphoreSync.Run();
+            //Console.Clear();
+
+
+            //App.Run();
+
+            int[] numbers = { 2, 172, 1, 77, 3, 91, 23, 73, 6, 3, 11, 384, 5};
+
+            MaxFinder finder = new MaxFinder(numbers);
+
+            Console.WriteLine(finder.FindMax());
             Console.ReadLine();
-            Console.Clear();
-
-            SemaphoreSync.Run();
-            Console.Clear();
 
 
 

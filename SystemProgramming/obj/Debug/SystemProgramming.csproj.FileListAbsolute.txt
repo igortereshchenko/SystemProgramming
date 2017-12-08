@@ -1,6 +1,6 @@
 C:\Users\Igor\Desktop\SystemProgramming\SystemProgramming\bin\Debug\SystemProgramming.exe.config
 C:\Users\Igor\Desktop\SystemProgramming\SystemProgramming\bin\Debug\SystemProgramming.exe
 C:\Users\Igor\Desktop\SystemProgramming\SystemProgramming\bin\Debug\SystemProgramming.pdb
-C:\Users\Igor\Desktop\SystemProgramming\SystemProgramming\obj\Debug\SystemProgramming.csprojResolveAssemblyReference.cache
 C:\Users\Igor\Desktop\SystemProgramming\SystemProgramming\obj\Debug\SystemProgramming.exe
 C:\Users\Igor\Desktop\SystemProgramming\SystemProgramming\obj\Debug\SystemProgramming.pdb
+C:\Users\Igor\Desktop\SystemProgramming\SystemProgramming\obj\Debug\SystemProgramming.csprojResolveAssemblyReference.cache

@@ -41,13 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApplicationDomain.cs" />
-    <Compile Include="FewThread.cs" />
-    <Compile Include="MultyParameters\MultyParametersThreadBest.cs" />
-    <Compile Include="MultyParameters\Counter.cs" />
-    <Compile Include="MultyParameters\MultyParametersThread.cs" />
+    <Compile Include="SyncThread\Lock\MaxFinder.cs" />
+    <Compile Include="Threads\ApplicationDomain.cs" />
+    <Compile Include="Threads\FewThread.cs" />
+    <Compile Include="Threads\MultyParameters\MultyParametersThreadBest.cs" />
+    <Compile Include="Threads\MultyParameters\Counter.cs" />
+    <Compile Include="Threads\MultyParameters\MultyParametersThread.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SyncThread\Mutex\App.cs" />
     <Compile Include="SyncThread\Mutex\DecThread.cs" />
     <Compile Include="SyncThread\Mutex\IncThread.cs" />
     <Compile Include="SyncThread\Mutex\SharedRes.cs" />
@@ -58,8 +60,8 @@
     <Compile Include="SyncThread\Monitor\TickTockThread.cs" />
     <Compile Include="SyncThread\Semaphore\Reader.cs" />
     <Compile Include="SyncThread\Semaphore\SemaphoreSync.cs" />
-    <Compile Include="ThreadInfo.cs" />
-    <Compile Include="SyncThread\ThreadJoin.cs" />
+    <Compile Include="Threads\ThreadInfo.cs" />
+    <Compile Include="SyncThread\Lock\ThreadJoin.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
