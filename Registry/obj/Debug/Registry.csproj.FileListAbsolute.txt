@@ -1,0 +1,8 @@
+C:\Users\Igor\Desktop\SystemProgramming\Registry\bin\Debug\Registry.exe.config
+C:\Users\Igor\Desktop\SystemProgramming\Registry\obj\Debug\Registry.Form1.resources
+C:\Users\Igor\Desktop\SystemProgramming\Registry\obj\Debug\Registry.Properties.Resources.resources
+C:\Users\Igor\Desktop\SystemProgramming\Registry\obj\Debug\Registry.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\SystemProgramming\Registry\bin\Debug\Registry.exe
+C:\Users\Igor\Desktop\SystemProgramming\Registry\bin\Debug\Registry.pdb
+C:\Users\Igor\Desktop\SystemProgramming\Registry\obj\Debug\Registry.exe
+C:\Users\Igor\Desktop\SystemProgramming\Registry\obj\Debug\Registry.pdb
