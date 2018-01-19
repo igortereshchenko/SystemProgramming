@@ -1,0 +1,14 @@
+C:\Users\Igor\Desktop\SystemProgramming\Hook\bin\Debug\Hook.exe.config
+C:\Users\Igor\Desktop\SystemProgramming\Hook\bin\Debug\Hook.exe
+C:\Users\Igor\Desktop\SystemProgramming\Hook\bin\Debug\Hook.pdb
+C:\Users\Igor\Desktop\SystemProgramming\Hook\obj\Debug\Hook.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\SystemProgramming\Hook\obj\Debug\MainWindow.g.cs
+C:\Users\Igor\Desktop\SystemProgramming\Hook\obj\Debug\App.g.cs
+C:\Users\Igor\Desktop\SystemProgramming\Hook\obj\Debug\Hook_MarkupCompile.cache
+C:\Users\Igor\Desktop\SystemProgramming\Hook\obj\Debug\Hook_MarkupCompile.lref
+C:\Users\Igor\Desktop\SystemProgramming\Hook\obj\Debug\MainWindow.baml
+C:\Users\Igor\Desktop\SystemProgramming\Hook\obj\Debug\Hook.g.resources
+C:\Users\Igor\Desktop\SystemProgramming\Hook\obj\Debug\Hook.Properties.Resources.resources
+C:\Users\Igor\Desktop\SystemProgramming\Hook\obj\Debug\Hook.csproj.GenerateResource.Cache
+C:\Users\Igor\Desktop\SystemProgramming\Hook\obj\Debug\Hook.exe
+C:\Users\Igor\Desktop\SystemProgramming\Hook\obj\Debug\Hook.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager", "TaskManager\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registry", "Registry\Registry.csproj", "{1E578E0C-8519-4953-97DC-3E3321F861B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hook", "Hook\Hook.csproj", "{75EB76AE-A874-4AA6-A0D9-BE6792FC63A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1E578E0C-8519-4953-97DC-3E3321F861B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E578E0C-8519-4953-97DC-3E3321F861B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E578E0C-8519-4953-97DC-3E3321F861B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EB76AE-A874-4AA6-A0D9-BE6792FC63A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EB76AE-A874-4AA6-A0D9-BE6792FC63A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EB76AE-A874-4AA6-A0D9-BE6792FC63A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EB76AE-A874-4AA6-A0D9-BE6792FC63A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
